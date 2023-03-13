@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bf933a9f5455039d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "new/asd.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test 513.md",
+                "file": "new/asd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test 513.md",
+                "file": "new/asd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test 513.md"
+                "file": "new/asd.md"
               }
             }
           }
@@ -146,9 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "050f15cb71a12cbe",
+  "active": "bf933a9f5455039d",
   "lastOpenFiles": [
-    "new test file.md",
-    "Test 513.md"
+    "Test 513.md",
+    "new/asd.md",
+    "new",
+    "new test file.md"
   ]
 }
